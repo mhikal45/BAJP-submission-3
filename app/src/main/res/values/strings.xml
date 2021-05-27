@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Catalog Application</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="show_title">TV Show Title</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="date_release">Date Release</string>
+    <string name="date">Date</string>
+    <string name="synopsis_desc">Synopsis</string>
+    <string name="rating">Rating</string>
+    <string name="rating_desc">Rating</string>
+    <string name="genre">Genre</string>
+    <string name="genre_desc">%1$s</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TV Show</string>
+    <string name="add_fav">Add to Favorite</string>
+    <string name="del_fav">Remove from Favorite</string>
+    <string name="fav">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
